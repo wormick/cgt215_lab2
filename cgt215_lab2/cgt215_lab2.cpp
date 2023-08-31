@@ -9,7 +9,7 @@ int main()
 	float A;
 	float B;
 	float X;
-	std::cout << "its math time\n";
+	std::cout << "its math time!!\n";
 	cout << "Please enter a value for A: ";
 	cin >> A;
 	cout << "A=" << A << endl;
